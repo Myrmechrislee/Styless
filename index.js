@@ -41,6 +41,7 @@ function create(name) {
         "body": {},
         "meta": {
             "version": package.version,
+            "package ID": require("uuid/v4")(),
             "date-created": [now.getDate(), now.getMonth(), now.getFullYear()].join("/") + " " + now.getHours() + ":" + now.getMinutes() + "." + now.getSeconds(),
             "joinWith": "\n"
         }
