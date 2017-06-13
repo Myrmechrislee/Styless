@@ -6,11 +6,22 @@
   "scripts": {
     "test": "./index.js"
   },
-  "bin": "./index.js",
+  "bin": {
+    "styless": "./index.js"
+  },
   "author": "Christophe",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2",
     "commander": "^2.9.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myrmechrislee/Styless.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Myrmechrislee/Styless/issues"
+  },
+  "homepage": "https://github.com/Myrmechrislee/Styless#readme"
 }
