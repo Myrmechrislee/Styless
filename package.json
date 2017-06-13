@@ -1,0 +1,16 @@
+{
+  "name": "styless",
+  "version": "1.0.1",
+  "description": "adds colorful documents to the commandline",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "bin": "./index.js",
+  "author": "Christophe",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}

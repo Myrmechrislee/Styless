@@ -1,0 +1,38 @@
+{
+    "title": "Hello World\n",
+    "styles": {
+        "title": [
+            "bold",
+            "green",
+            "underline"
+        ],
+        "r": [
+            "red"
+        ],
+        "b": [
+            "blue"
+        ],
+        "g": [
+            "green"
+        ],
+        "y": [
+            "yellow",
+            "underline"
+        ],
+        "rain": [
+            "rainbow"
+        ]
+    },
+    "body": {
+        "r": "This",
+        "b": "is",
+        "g": "a",
+        "y": "hello world",
+        "rain": "example"
+    },
+    "meta": {
+        "version": "1.0.1",
+        "date-created": "13/5/2017 11:13.5",
+        "joinWith": " "
+    }
+}
